@@ -1,0 +1,13 @@
+$crazy chimps
+
+!wabbit
+#0
+
+!chimps
+#1
+
+!blah blah blah
+#1
+
+!true...
+#0
